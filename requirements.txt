@@ -1,0 +1,12 @@
+ipykernel
+langchain
+langgraph
+langchain-core
+langchain-community
+python-dotenv
+langchain-openai
+grandalf
+ddgs
+streamlit
+transformers
+torch
